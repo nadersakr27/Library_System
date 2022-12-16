@@ -11,7 +11,7 @@ This is a project for organizing data in the library by adding books, and it can
 ### 3 - Print who borrowed by name
 #### In this option, you can display all the users who borrowed books from the library.
 ### 4 -  Print books by id
-#### In this selection, you can view all the books in the library in ascending order according to the alphabetical order of each book's name
+#### In this selection, you can view all the books in the library in ascending order by the value of the unique ID of each book
 
 
 ### 6 - Adding User
