@@ -18,3 +18,6 @@ This is a project for organizing data in the library by adding books, and it can
 #### In the this option, you can add a user in library by  adding his/her name, the user's identification number.
 ### 7 - User borrow book
 #### In this option, you can carry out the process of borrowing a book from the library, and it must be taken into account that the user who will borrow the book is present in the library, in addition to taking into account that the borrowed book is in the list of books in the library.
+### 8 - User return book 
+#### In this option, you can perform the process of returning a book to the library, and it must be taken into account that the user who will return the book is in the list of library users, in addition to taking into account that the returned book is in the list of books in the library.
+
