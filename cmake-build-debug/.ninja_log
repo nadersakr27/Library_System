@@ -1,0 +1,9 @@
+# ninja log v5
+1	3762	6901663576222483	CMakeFiles/LibrarySystem.dir/main.cpp.obj	c90b26d5f44eb44d
+3768	3960	6901663578178412	LibrarySystem.exe	e0462defbd8f10d2
+14	4620	6901668426447340	CMakeFiles/LibrarySystem.dir/main.cpp.obj	c90b26d5f44eb44d
+4621	4819	6901668428413440	LibrarySystem.exe	e0462defbd8f10d2
+5	3576	6928460490741765	CMakeFiles/LibrarySystem.dir/main.cpp.obj	c90b26d5f44eb44d
+3577	3934	6928460494268037	LibrarySystem.exe	e0462defbd8f10d2
+4	4414	6928461297270858	CMakeFiles/LibrarySystem.dir/main.cpp.obj	c90b26d5f44eb44d
+4415	4650	6928461299589111	LibrarySystem.exe	e0462defbd8f10d2
