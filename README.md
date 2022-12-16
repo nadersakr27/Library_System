@@ -14,6 +14,7 @@ This is a project for organizing data in the library by adding books, and it can
 #### In this selection, you can view all the books in the library in ascending order by the value of the unique ID of each book
 ### 5 - Print books by name
 #### In this selection, you can view all the books in the library in ascending order according to the alphabetical order of each book's name
-
 ### 6 - Adding User
 #### In the this option, you can add a user in library by  adding his/her name, the user's identification number.
+### 7 - User borrow book
+#### In this option, you can carry out the process of borrowing a book from the library, and it must be taken into account that the user who will borrow the book is present in the library, in addition to taking into account that the borrowed book is in the list of books in the library.
