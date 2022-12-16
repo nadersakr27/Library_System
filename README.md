@@ -6,3 +6,5 @@ This is a project for organizing data in the library by adding books, and it can
 ## Features:
 ### 1 - Adding Book
 #### In the first choice, you can add a book by specifying the name, the book's identification number, and the number to be added from this book.
+### 2 - Adding User
+#### In the second choice, you can add a user in library by  adding his/her name, the user's identification number.
