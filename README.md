@@ -10,6 +10,8 @@ This is a project for organizing data in the library by adding books, and it can
 #### In this option, you can search for a book in the Library books by just writing the first character of the book you want to search for.
 ### 3 - Print who borrowed by name
 #### In this option, you can display all the users who borrowed books from the library.
+### 4 -  Print books by id
+#### In this selection, you can view all the books in the library in ascending order according to the alphabetical order of each book's name
 
 
 ### 6 - Adding User
