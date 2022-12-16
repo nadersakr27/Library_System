@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/DELL/CLionProjects/LibrarySystem/cmake-build-debug"
+			"value" : "d:/projects/C++/Library_System_with_C-/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/DELL/CLionProjects/LibrarySystem"
+			"value" : "D:/projects/C++/Library_System_with_C-"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/DELL/CLionProjects/LibrarySystem/cmake-build-debug"
+			"value" : "D:/projects/C++/Library_System_with_C-/cmake-build-debug"
 		},
 		{
 			"name" : "LibrarySystem_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/DELL/CLionProjects/LibrarySystem"
+			"value" : "D:/projects/C++/Library_System_with_C-"
 		}
 	],
 	"kind" : "cache",

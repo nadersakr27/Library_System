@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/DELL/CLionProjects/LibrarySystem/cmake-build-debug",
-		"source" : "C:/Users/DELL/CLionProjects/LibrarySystem"
+		"build" : "D:/projects/C++/Library_System_with_C-/cmake-build-debug",
+		"source" : "D:/projects/C++/Library_System_with_C-"
 	},
 	"version" : 
 	{

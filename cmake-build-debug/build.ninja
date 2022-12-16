@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/DELL/CLionProjects/LibrarySystem/cmake-build-debug/
+cmake_ninja_workdir = D$:/projects/C++/Library_System_with_C-/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target LibrarySystem
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = C$:/Users/DELL/CLionProjects/LibrarySystem/cmake-build-deb
 
 build cmake_object_order_depends_target_LibrarySystem: phony || CMakeFiles/LibrarySystem.dir
 
-build CMakeFiles/LibrarySystem.dir/main.cpp.obj: CXX_COMPILER__LibrarySystem_Debug C$:/Users/DELL/CLionProjects/LibrarySystem/main.cpp || cmake_object_order_depends_target_LibrarySystem
+build CMakeFiles/LibrarySystem.dir/main.cpp.obj: CXX_COMPILER__LibrarySystem_Debug D$:/projects/C++/Library_System_with_C-/main.cpp || cmake_object_order_depends_target_LibrarySystem
   DEP_FILE = CMakeFiles\LibrarySystem.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++20
   OBJECT_DIR = CMakeFiles\LibrarySystem.dir
@@ -81,7 +81,7 @@ build LibrarySystem.exe: CXX_EXECUTABLE_LINKER__LibrarySystem_Debug CMakeFiles/L
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\DELL\CLionProjects\LibrarySystem\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D D:\projects\C++\Library_System_with_C-\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -92,7 +92,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\DELL\CLionProjects\LibrarySystem\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\DELL\CLionProjects\LibrarySystem -BC:\Users\DELL\CLionProjects\LibrarySystem\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D D:\projects\C++\Library_System_with_C-\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SD:\projects\C++\Library_System_with_C- -BD:\projects\C++\Library_System_with_C-\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -110,7 +110,7 @@ build LibrarySystem: phony LibrarySystem.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/DELL/CLionProjects/LibrarySystem/cmake-build-debug
+# Folder: D:/projects/C++/Library_System_with_C-/cmake-build-debug
 
 build all: phony LibrarySystem.exe
 
